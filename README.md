@@ -22,11 +22,16 @@ The All About Git repo was created just for this workshop and will continue as a
 
 This project is hosted on GitHub Pages at: https://rmklaus12.github.io/all-about-git/
 
+In the root directory, there is a HTML template file for you to use to get a jump start when adding a new page to the site.
+
 Make your changes in your editor of choice, and push to GitHub as instructed. The instructors will approve your PRs, merge with master, and changes are automatically deployed to GitHub Pages. You can refresh that site at any time to see changes.
 
 **Issues**
 
 -   Flags
+
+*   good first issue
+
 -   Opening an issue
 -   Assigning an issue
 
