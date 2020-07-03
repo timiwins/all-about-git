@@ -20,9 +20,9 @@ The All About Git repo was created just for this workshop and will continue as a
 -   Review PRs
 -   Add your name to the Contributors list!
 
-This project is hosted on Heroku at:
+This project is hosted on GitHub Pages at: https://rmklaus12.github.io/all-about-git/
 
-If you are familiar and comfortable with Ruby, you can run this project locally in order to develop and test. If you are not, it is not required for the workshop. Make any of your changes in your editor of choice, and push to git as instructed. The instructors will approve your PRs, merge with master, and changes are automatically deployed to Heroku. You can refresh that site at any time to see changes.
+Make your changes in your editor of choice, and push to GitHub as instructed. The instructors will approve your PRs, merge with master, and changes are automatically deployed to GitHub Pages. You can refresh that site at any time to see changes.
 
 **Issues**
 
