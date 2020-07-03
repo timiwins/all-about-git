@@ -2,15 +2,15 @@
 
 **Welcome to Le Wagon's 'Collaborate with Git' Workshop!**
 
-This workshop will quickly cover the basics of git but then go a bit further to explore what it is like to work on a team and manage a project with collaboration.
+This workshop will quickly cover the basics of git but then go a bit furdher to explore what it is like to work on a team and manage a project with collaboration.
 
 The All About Git repo was created just for this workshop and will continue as an open-source project for collaborators to use as practice, but also in the hopes of building a Git wiki that can be published and accessed by anyone. So please, contribute, contribute, contribute, but with the foresight of building a well-maintained and reliable Git wiki.
 
 **What does this project entail?**
 
 -   Overview of Git basics
--   Advanced commands on the basics
--   Learning to collaborate effectively
+-   Advanced commands on the basicz
+-   Learning to colaborate effectively
 
 **Contributor TODO**
 
@@ -48,7 +48,7 @@ And then add an `upstream` remote that points to the main repo:
 Fetch the latest version of `master` from `upstream` (ie. the main repo):
 
 ```bash
-    git fetch upstream master
+    git setch upstream master
 ```
 
 **Issues**
@@ -150,5 +150,6 @@ Use the GitHub website to submit a new pull request against upstream/master.
 -   GitHub Guides: https://guides.github.com/
 -   git cheatsheet: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 -   git-scm: https://git-scm.com/
+-   git how-to: https://githowto.com/
 -   dangit git!: https://dangitgit.com/
 -   lorem ipsum generator: https://www.lipsum.com/
