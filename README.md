@@ -28,12 +28,10 @@ Make your changes in your editor of choice, and push to GitHub as instructed. Th
 
 **Issues**
 
--   Flags
-
-*   good first issue
-
--   Opening an issue
--   Assigning an issue
+ *  Flags
+  *   good first issue
+*   Opening an issue
+*   Assigning an issue
 
 **Commits**
 
