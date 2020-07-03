@@ -48,7 +48,7 @@ And then add an `upstream` remote that points to the main repo:
 Fetch the latest version of `master` from `upstream` (ie. the main repo):
 
 ```bash
-    git setch upstream master
+    git fetch upstream master
 ```
 
 **Issues**
