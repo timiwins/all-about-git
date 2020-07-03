@@ -60,8 +60,12 @@ Fetch the latest version of `master` from `upstream` (ie. the main repo):
     -   Issues can be assigned labels (see below) to help identify and/or classify them.
 
 -   Assigning an issue
+
     -   https://docs.github.com/en/github/managing-your-work-on-github/assigning-issues-and-pull-requests-to-other-github-users
     -   You may self-assign issues that you would like to tackle
+
+-   Closing issues
+    -   Issues will be closed by the senior devs (aka the instructors)
 
 | Label            | Description                                        |
 | :--------------- | :------------------------------------------------- |
@@ -140,8 +144,10 @@ Use the GitHub website to submit a new pull request against upstream/master.
 -   Use a style consistent with the rest of the codebase
 -   Before submitting, rebase your work on the current master branch
 
-**Resources**
+**Resources & Additional Reading**
 
 -   GitHub Docs: https://docs.github.com/en
+-   GitHub Guides: https://guides.github.com/
 -   git cheatsheet: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 -   git-scm: https://git-scm.com/
+-   dangit git!: https://dangitgit.com/
