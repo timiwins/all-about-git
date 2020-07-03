@@ -151,3 +151,4 @@ Use the GitHub website to submit a new pull request against upstream/master.
 -   git cheatsheet: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 -   git-scm: https://git-scm.com/
 -   dangit git!: https://dangitgit.com/
+-   lorem ipsum generator: https://www.lipsum.com/
