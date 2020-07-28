@@ -2,7 +2,7 @@
 
 **Welcome to Le Wagon's 'Collaborate with Git' Workshop!**
 
-This workshop will quickly cover the basics of git but then go a bit furdher to explore what it is like to work on a team and manage a project with collaboration.
+This workshop will quickly cover the basics of git but then go a bit further to explore what it is like to work on a team and manage a project with collaboration.
 
 The All About Git repo was created just for this workshop and will continue as an open-source project for collaborators to use as practice, but also in the hopes of building a Git wiki that can be published and accessed by anyone. So please, contribute, contribute, contribute, but with the foresight of building a well-maintained and reliable Git wiki.
 
