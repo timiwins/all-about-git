@@ -158,3 +158,5 @@ Use the GitHub website to submit a new pull request against upstream/master.
 -   git how-to: https://githowto.com/
 -   dangit git!: https://dangitgit.com/
 -   lorem ipsum generator: https://www.lipsum.com/
+-   User stories: https://www.atlassian.com/agile/project-management/user-stories
+-   Naming issues: https://stratejos.ai/blog/naming-task-bug-user-story-titles/
